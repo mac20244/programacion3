@@ -1,0 +1,215 @@
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("https://cdn.fonts.net/t/1.css?apiType=css&projectid=5e822a0e-3c5d-4a46-8102-6aeae943c6ac");
+  
+@font-face {
+  font-family: "GothamMedium";
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('Gotham/GothamMedium_normal_normal.woff2') format('woff2'), url('Gotham/GothamMedium_normal_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "GothamBook";
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('Gotham/GothamBook_normal_normal.woff2') format('woff2'), url('Gotham/GothamBook_normal_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "CenturyOldStyleRoman";
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('CenturyOldStyle/CenturyOldStyleRoman_normal_normal.woff2') format('woff2'), url('CenturyOldStyle/CenturyOldStyleRoman_normal_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "CenturyOldStyleItalic";
+  font-style: italic;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('CenturyOldStyle/CenturyOldStyleItalic_italic_normal.woff2') format('woff2'), url('CenturyOldStyle/CenturyOldStyleItalic_italic_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "CenturyOldStyleBold";
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('CenturyOldStyle/CenturyOldStyleBold_normal_normal.woff2') format('woff2'), url('CenturyOldStyle/CenturyOldStyleBold_normal_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "SofiaProBlack";
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('SofiaPro/SofiaProBlack_normal_normal.woff2') format('woff2'), url('SofiaPro/SofiaProBlack_normal_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "ProximaNovaBold";
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('ProximaNova/ProximaNovaBold_normal_normal.woff2') format('woff2'), url('ProximaNova/ProximaNovaBold_normal_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "SofiaProRegularitalic";
+  font-style: italic;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('SofiaPro/SofiaProRegularitalic_italic_normal.woff2') format('woff2'), url('SofiaPro/SofiaProRegularitalic_italic_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "SofiaProBolditalic";
+  font-style: italic;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('SofiaPro/SofiaProBolditalic_italic_normal.woff2') format('woff2'), url('SofiaPro/SofiaProBolditalic_italic_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "SofiaProBold";
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('SofiaPro/SofiaProBold_normal_normal.woff2') format('woff2'), url('SofiaPro/SofiaProBold_normal_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "SofiaProBold";
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('SofiaPro/SofiaProBold_normal_normal.woff2') format('woff2'), url('SofiaPro/SofiaProBold_normal_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "SofiaProBold";
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('SofiaPro/SofiaProBold_normal_normal.woff2') format('woff2'), url('SofiaPro/SofiaProBold_normal_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "SofiaProRegular";
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('SofiaPro/SofiaProRegular_normal_normal.woff2') format('woff2'), url('SofiaPro/SofiaProRegular_normal_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "SofiaProMedium";
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('SofiaPro/SofiaProMedium_normal_normal.woff2') format('woff2'), url('SofiaPro/SofiaProMedium_normal_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "ProximaNovaRegular";
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('ProximaNova/ProximaNovaRegular_normal_normal.woff2') format('woff2'), url('ProximaNova/ProximaNovaRegular_normal_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "SofiaProRegular";
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('SofiaPro/SofiaProRegular_normal_normal.woff2') format('woff2'), url('SofiaPro/SofiaProRegular_normal_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "ProximaNovaItalic";
+  font-style: italic;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('ProximaNova/ProximaNovaItalic_italic_normal.woff2') format('woff2'), url('ProximaNova/ProximaNovaItalic_italic_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "SofiaProRegularitalic";
+  font-style: italic;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('SofiaPro/SofiaProRegularitalic_italic_normal.woff2') format('woff2'), url('SofiaPro/SofiaProRegularitalic_italic_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "SofiaProMedium";
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('SofiaPro/SofiaProMedium_normal_normal.woff2') format('woff2'), url('SofiaPro/SofiaProMedium_normal_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "SofiaProMedium";
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('SofiaPro/SofiaProMedium_normal_normal.woff2') format('woff2'), url('SofiaPro/SofiaProMedium_normal_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "BlackerProTextRegular";
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('BlackerPro/BlackerProTextRegular_normal_normal.woff2') format('woff2'), url('BlackerPro/BlackerProTextRegular_normal_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "BlackerProTextBook";
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('BlackerPro/BlackerProTextBook_normal_normal.woff2') format('woff2'), url('BlackerPro/BlackerProTextBook_normal_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "SofiaProBold";
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('SofiaPro/SofiaProBold_normal_normal.woff2') format('woff2'), url('SofiaPro/SofiaProBold_normal_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "BlackerProTextBookItalic";
+  font-style: italic;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('BlackerPro/BlackerProTextBookItalic_italic_normal.woff2') format('woff2'), url('BlackerPro/BlackerProTextBookItalic_italic_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "SofiaProRegular";
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('SofiaPro/SofiaProRegular_normal_normal.woff2') format('woff2'), url('SofiaPro/SofiaProRegular_normal_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "SofiaProRegularitalic";
+  font-style: italic;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('SofiaPro/SofiaProRegularitalic_italic_normal.woff2') format('woff2'), url('SofiaPro/SofiaProRegularitalic_italic_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "SofiaProRegularitalic";
+  font-style: italic;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('SofiaPro/SofiaProRegularitalic_italic_normal.woff2') format('woff2'), url('SofiaPro/SofiaProRegularitalic_italic_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "BlackerProTextMedium";
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('BlackerPro/BlackerProTextMedium_normal_normal.woff2') format('woff2'), url('BlackerPro/BlackerProTextMedium_normal_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "SofiaProMedium";
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('SofiaPro/SofiaProMedium_normal_normal.woff2') format('woff2'), url('SofiaPro/SofiaProMedium_normal_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "SofiaProRegular";
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('SofiaPro/SofiaProRegular_normal_normal.woff2') format('woff2'), url('SofiaPro/SofiaProRegular_normal_normal.woff') format('woff');
+}

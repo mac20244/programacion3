@@ -1,0 +1,1 @@
+(self["webpackChunkwsf_master_mny"]=self["webpackChunkwsf_master_mny"]||[]).push([[119],{5284:function(n,t,e){(function(t,e){n.exports=e()})(0,(function(){"use strict";var n=e(1036),t={install:function(t,e){var s=e;t.prototype.$sanitize=function(t){var e=arguments.length>1&&void 0!==arguments[1]?arguments[1]:null;return n(t,e||s)}},defaults:n.defaults};return t}))}}]);

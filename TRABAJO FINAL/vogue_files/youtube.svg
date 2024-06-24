@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #171d48;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill-rule: evenodd;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_30" data-name="Rectangle 30" class="cls-1" width="16" height="16" transform="translate(661 4578)"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_3" data-name="Mask Group 3" class="cls-2" transform="translate(-661 -4578)">
+    <g id="Page-1" transform="translate(661 4580.333)">
+      <g id="loreal_d_pdp_dream_length" transform="translate(-1011.333 -2678)">
+        <g id="Desktop---Footer" transform="translate(0 2509.333)">
+          <g id="Desktop---Footer-Copy" transform="translate(0 43.333)">
+            <g id="social" transform="translate(860 114)">
+              <g id="Youtube" transform="translate(142)">
+                <path id="Youtube-Copy" class="cls-3" d="M16,18.667V14l4,2.333ZM25.2,13.8a3.027,3.027,0,0,0-.667-1.6,1.966,1.966,0,0,0-1.6-.667c-2.267-.2-5.6-.2-5.6-.2h0s-3.333,0-5.6.133a2.55,2.55,0,0,0-1.6.667,3.762,3.762,0,0,0-.667,1.6s-.133,1.333-.133,2.6v1.2c0,1.333.133,2.6.133,2.6a3.027,3.027,0,0,0,.667,1.6,2.482,2.482,0,0,0,1.733.667c1.333.2,5.467.267,5.467.267s3.333,0,5.6-.2a2.55,2.55,0,0,0,1.6-.667,3.762,3.762,0,0,0,.667-1.6s.133-1.333.133-2.6V16.4c0-1.333-.133-2.6-.133-2.6Z"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

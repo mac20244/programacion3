@@ -1,0 +1,1 @@
+(self["webpackChunkwsf_master_mny"]=self["webpackChunkwsf_master_mny"]||[]).push([[254],{2961:function(e){let t="useandom-26T198340PX75pxJACKVERYMINDBUSHWOLF_GQZbfghjklqvwyzrict",n=(e,t=21)=>(n=t)=>{let a="",h=n;while(h--)a+=e[Math.random()*e.length|0];return a},a=(e=21)=>{let n="",a=e;while(a--)n+=t[64*Math.random()|0];return n};e.exports={nanoid:a,customAlphabet:n}}}]);
